@@ -1,0 +1,15 @@
+== 1.0.3: 2024-03-07 ==
+	* Fix: Single post title font issue fixed.
+	* Fix: Animated background issue fixed for header and custom header.
+	* Imp: Some design improvement done.
+
+== 1.0.2 : 2024-02-23 ==
+	* Fix: responsive sticky header sidebar issue fixed.
+	* Fix: Some design glitch fixed.
+
+== 1.0.1 : 2024-02-12 ==
+	* Fix: Single post page underline links.
+	* Fix: Mobile menu keyboard navigation.
+
+== 1.0.0 : 2024-02-06 ==
+	* Submit theme on wordpress.org trac.
